@@ -1,0 +1,9 @@
+
+*.csv
+*.jpg
+*.mat
+*.npy
+*.pkl
+*.txt
+*.json
+*.gz
