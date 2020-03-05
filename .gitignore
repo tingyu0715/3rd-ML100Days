@@ -1,6 +1,5 @@
 
 *.csv
-*.jpg
 *.mat
 *.npy
 *.pkl
